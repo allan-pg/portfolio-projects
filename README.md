@@ -8,4 +8,10 @@ This repository contains files to projects that i have done in mysql. This inclu
 * views in my sql
 * Data cleaning in mysql
 * when and how to use CTEs in mysql
+  
+### introduction
+This repository showcases SQL queries and scripts. SQL (Structured Query Language) is used to retrieve, analyze, and manipulate the data, showcasing various advanced SQL techniques.
+
+
+
 Please feel free to make use of them and find your own insights.

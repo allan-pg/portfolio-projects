@@ -24,7 +24,8 @@ Tools
 * DB Browser for SQLite
 
 # Projects and challenges
-
+### Data Cleaning
+Data cleaning is a vital step in the data preparation process that involves identifying and correcting errors, inconsistencies, and inaccuracies in your dataset to ensure that it is accurate, reliable, and suitable for analysis.Cleaning the data can be so challenging and sometimes tiring, and most importantly time-consuming, hence proper attention is needed to achieve its goal, which tends to be arriving at accurate, consistent, and complete data for analysis. I went ahead to clean the data found on this repo using mysql.
 
 
 Please feel free to make use of them and find your own insights.

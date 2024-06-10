@@ -36,13 +36,19 @@ Before starting the cleaning process I manually assessed the dataset, to look fo
 ![layoff](https://github.com/allan-pg/portfolio-projects/assets/62595869/1467628b-eab8-47e3-8a58-907c43ac1961)
 
 I used mysql to check for any duplicates in our dataset by use window functions. SQL window functions are very useful and work almost identical in all modern databases.
+
+
 ![x](https://github.com/allan-pg/portfolio-projects/assets/62595869/9f43a781-4e69-4700-8f2b-005c8aed8244)
 
 we can also check for duplicates usin inner joins
+
+
 ![i](https://github.com/allan-pg/portfolio-projects/assets/62595869/4d992706-7173-47c4-93ef-d9982934fc23)
 
 
 Clearly there is redudant data in our dataset. I deleted the by use of a CTE
+
+
 ![de](https://github.com/allan-pg/portfolio-projects/assets/62595869/2217ceab-994a-434d-ab66-68dbd0e9a5f7)
 
 2. Check for null values

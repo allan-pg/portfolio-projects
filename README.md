@@ -54,13 +54,21 @@ Clearly there is redudant data in our dataset. I deleted the by use of a CTE
 2. Check for null values
 ![n2](https://github.com/allan-pg/portfolio-projects/assets/62595869/8cc9995a-85af-4ccc-ae6a-7fe5163ef18f)
 
+
 3. set empty rows to null
+
+
 ![n1](https://github.com/allan-pg/portfolio-projects/assets/62595869/7a9298c8-f4c4-4625-be0f-a6093f82b4a2)
 
+
 4. check if all the industry now there is no empty value
+
+
 ![n3](https://github.com/allan-pg/portfolio-projects/assets/62595869/438242f7-0cb5-46b2-9f8b-56fcb1bf7c88)
 
 5. populate empty rows usin update
+
+
 ![n4](https://github.com/allan-pg/portfolio-projects/assets/62595869/14f95b30-2a93-4447-b745-454d3b2ca35e)
 
 ### Conclusion

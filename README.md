@@ -73,7 +73,7 @@ Clearly there is redudant data in our dataset. I deleted the by use of a CTE
 
 ### Conclusion
 
-DAta cleaning is an important part of data analysis. Data cleanin is a guardian of data integrity and ensures conclusions drawn are accurate and reliable and meaningful.
+Data cleaning is an important part of data analysis. Data cleanin is a guardian of data integrity and ensures conclusions drawn are accurate and reliable and meaningful.
 
 Clean data is more accurate and consistent.
 

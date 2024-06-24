@@ -28,7 +28,7 @@ Tools
 ![clean](https://github.com/allan-pg/portfolio-projects/assets/62595869/739e3887-a359-4236-b7a4-cb7c56955481)
 
 
-Data cleaning is a vital step in the data preparation process that involves identifying and correcting errors, inconsistencies, and inaccuracies in your dataset to ensure that it is accurate, reliable, and suitable for analysis.Cleaning the data can be so challenging and sometimes tiring, and most importantly time-consuming, hence proper attention is needed to achieve its goal, which tends to be arriving at accurate, consistent, and complete data for analysis. I went ahead to clean the data found on this repo using mysql.
+Data cleaning is a vital step in the data preparation process that involves identifying and correcting errors, inconsistencies, and inaccuracies in your dataset to ensure that it is accurate, reliable, and suitable for analysis. Cleaning the data can be  challenging and sometimes tiring, and most importantly time-consuming, hence proper attention is needed to achieve its goal, which tends to be arriving at accurate, consistent, and complete data for analysis. I went ahead to clean the data found on this repo using mysql.
 
 The data set contains 1000 rows and 9 columns.
 
@@ -71,10 +71,14 @@ Clearly there is redudant data in our dataset. I deleted the by use of a CTE
 
 ![n4](https://github.com/allan-pg/portfolio-projects/assets/62595869/14f95b30-2a93-4447-b745-454d3b2ca35e)
 
+### Key benefits of data cleaning
+- Staying organized : Cleaning this data regularly means keeping it tidy. It can then be stored more effectively and securely.
+- Avoiding mistakes: Dirty data doesn’t just cause problems for data analytics. It also affects daily operations.
+- Avoiding unnecessary costs: Making business decisions with bad data can lead to expensive mistakes. But bad data can incur costs in other ways too. Simple things, like processing errors, can quickly snowball into bigger problems.
+- Improving productivity: Regularly cleaning and updating data means rogue information is quickly purged. This saves teams from having to wade through old databases or documents to find what they’re looking for.
+ 
 ### Conclusion
-
 Data cleaning is an important part of data analysis. Data cleanin is a guardian of data integrity and ensures conclusions drawn are accurate, reliable and meaningful.
-
 Clean data is more accurate and consistent.
 
 

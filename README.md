@@ -1,4 +1,4 @@
-# portfolio-projects
+# Portfolio Projects
 ## Data cleaning an exploration in mysql
 
 This repository contains files to projects that i have done in mysql to practise my skills. This includes 

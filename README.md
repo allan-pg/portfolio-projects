@@ -51,27 +51,27 @@ Clearly there is redudant data in our dataset. I deleted the by use of a CTE
 
 ![de](https://github.com/allan-pg/portfolio-projects/assets/62595869/2217ceab-994a-434d-ab66-68dbd0e9a5f7)
 
-2. Check for null values
+2. Check for null values  
 ![n2](https://github.com/allan-pg/portfolio-projects/assets/62595869/8cc9995a-85af-4ccc-ae6a-7fe5163ef18f)
 
 
-3. set empty rows to null
+3. set empty rows to null  
 
 
 ![n1](https://github.com/allan-pg/portfolio-projects/assets/62595869/7a9298c8-f4c4-4625-be0f-a6093f82b4a2)
 
 
-4. check if all the industry now there is no empty value
+4. check if all the industry now there is no empty value  
 
 
 ![n3](https://github.com/allan-pg/portfolio-projects/assets/62595869/438242f7-0cb5-46b2-9f8b-56fcb1bf7c88)
 
-5. populate empty rows usin update
+5. populate empty rows usin update  
 
 
 ![n4](https://github.com/allan-pg/portfolio-projects/assets/62595869/14f95b30-2a93-4447-b745-454d3b2ca35e)
 
-### Key benefits of data cleaning
+### Key benefits of data cleaning  
 - Staying organized : Cleaning this data regularly means keeping it tidy. It can then be stored more effectively and securely.
 - Avoiding mistakes: Dirty data doesn’t just cause problems for data analytics. It also affects daily operations.
 - Avoiding unnecessary costs: Making business decisions with bad data can lead to expensive mistakes. But bad data can incur costs in other ways too. Simple things, like processing errors, can quickly snowball into bigger problems.
